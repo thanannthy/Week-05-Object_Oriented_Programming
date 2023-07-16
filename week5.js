@@ -55,7 +55,7 @@ class  CoffeeMenu {
     }
 }
 
-const icecoffee = new Coffee("Ice Cofee", 5);
+const icecoffee = new Coffee("Ice Coffee", 5);
 const latte = new Coffee("Latte", 4);
 const menu = new CoffeeMenu();
 
